@@ -22,3 +22,9 @@ Gaon me jab internet slow hota hai ya server down hota hai to logon ko:
 
 ## 🛠️ Tech Stack
 **Frontend:** HTML5
+
+Chandan Kumar
+Fresher Web Developer | AI Enthusiast
+"Technology ko gaon tak pahunchana"
+📧 chandan.kumar@email.com | 📍 Jamalpur, Bihar
+GitHub: github.com/chandan-kumar
